@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/dassakrassia/dassakrassia/refs/heads/main/game%20mode.gif" alt="banner" />
+  <img src="https://github.com/krassiaa/krassiaa/blob/18d0dfb5de79fdf2fa0ccd92d4601d0df5d58acd/game%20mode.gif" alt="banner" />
 </p>
 
 
