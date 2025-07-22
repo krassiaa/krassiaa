@@ -11,6 +11,7 @@
   <li> Worked on Telegram bots and developed a projects using Python</li>
   <li> Developed a web service using Python that I really enjoy!</li>
   <li> How to reach me: <a href="mailto:skid.series.9y@icloud.com">skid.series.9y@icloud.com</a></li>
+  <li> My <a href="https://www.linkedin.com/in/dariakrassa/">Linkedin</a></li>
 </ul>
 
 
