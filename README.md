@@ -24,6 +24,22 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=krassiaa&theme=solarized_dark)
 
+## 💼 Commercial Experience
+
+**[deepfake-detection](https://github.com/krassiaa/deepfake-detection)** — R&D project for industrial deepfake detection on edge devices.
+
+- Developed a lightweight detection pipeline using MobileNetV4 (9.2M params)
+- Achieved 99.6% ROC-AUC, comparable to heavy DINOv2 (22.1M params)
+- Built custom dataset AuthorDeepFake-6600 with InSwapper & SDXL generations
+- Deployed on NVIDIA RTX 3090 for training, targeting mobile/edge inference
+
+## 🎓 Academic Research
+
+**[adversarial_pipeline](https://github.com/krassiaa/adversarial_pipeline)** — Master's thesis on real-time adversarial attacks against face recognition.
+
+- Adapted NI-FGSM for video streams (33.6 FPS on Apple M1 Pro)
+- Achieved 99.75% ASR with imperceptible perturbations (PSNR > 36 dB)
+
 
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/krassiaa/krassiaa)
