@@ -10,7 +10,7 @@ Hello! I am an ML Engineer specializing in Computer Vision, Deep Learning, and A
 * 🧠 **Core Focus:** Deepfake Detection, Adversarial Robustness & Video Analytics
 * 🛠️ **Engineering:** Building automated preprocessing pipelines & production-grade evaluation code
 * 📱 **Optimization:** Adapting heavy architectures for edge devices (MobileNetV4, ONNX Runtime)
-* 📬 **How to reach me:** [skid.series.9y@icloud.com](mailto:skid.series.9y@icloud.com)
+* 📬 **How to reach me:** [deepranse@gmail.com](mailto:deepranse@gmail.com)
 
 
 ## Tech Stack
