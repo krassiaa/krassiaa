@@ -3,42 +3,41 @@
 </p>
 
 
-# ML engineer
+# AI Research & CV/ML Engineer
 
+Hello! I am an ML Engineer specializing in Computer Vision, Deep Learning, and AI Safety (Adversarial ML & Deepfake Detection). I build end-to-end pipelines — from robust data engineering to training and optimizing SOTA models for production.
 
-<ul>
-  <li> Studying Software Engineering at CSU</li>
-  <li> Worked on Telegram bots and developed a projects using Python</li>
-  <li> Developed a web service using Python that I really enjoy!</li>
-  <li> How to reach me: <a href="mailto:skid.series.9y@icloud.com">skid.series.9y@icloud.com</a></li>
-  <li> My <a href="https://www.linkedin.com/in/dariakrassa/">Linkedin</a></li>
-</ul>
+* 🧠 **Core Focus:** Deepfake Detection, Adversarial Robustness & Video Analytics
+* 🛠️ **Engineering:** Building automated preprocessing pipelines & production-grade evaluation code
+* 📱 **Optimization:** Adapting heavy architectures for edge devices (MobileNetV4, ONNX Runtime)
+* 📬 **How to reach me:** [skid.series.9y@icloud.com](mailto:skid.series.9y@icloud.com)
 
 
 ## Tech Stack
-![](https://img.shields.io/badge/Python-232327?style=for-the-badge&logo=python&logoColor=white)
-![](https://img.shields.io/badge/Deep%20Learning-00599C?style=for-the-badge)
-![](https://img.shields.io/badge/NLP-424242?style=for-the-badge)
-![](https://img.shields.io/badge/Docker%20-00599C?style=for-the-badge)
-![](https://img.shields.io/badge/CV-232327?style=for-the-badge&logo=python&logoColor=white)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=krassiaa&theme=solarized_dark)
+* **Languages:** Python (Advanced), Bash
+* **Frameworks & Deep Learning:** PyTorch, PyTorch Lightning, ONNX Runtime
+* **Computer Vision:** OpenCV, MediaPipe, InsightFace, Vision Transformers (ViT)
+* **AI Safety & Adversarial ML:** Adversarial Robustness Toolbox (ART)
+* **DevOps & MLOps:** Docker, Git, Linux (Ubuntu/Debian)
+
 
 ## 💼 Commercial Experience
 
 **[deepfake-detection](https://github.com/krassiaa/deepfake-detection)** — R&D project for industrial deepfake detection on edge devices.
 
-- Developed a lightweight detection pipeline using MobileNetV4 (9.2M params)
-- Achieved 99.6% ROC-AUC, comparable to heavy DINOv2 (22.1M params)
-- Built custom dataset AuthorDeepFake-6600 with InSwapper & SDXL generations
-- Deployed on NVIDIA RTX 3090 for training, targeting mobile/edge inference
+- Developed and evaluated two pipelines: heavy DINOv2 (22.1M params) and lightweight MobileNetV4 (9.2M params).
+- Achieved **0.9988 ROC-AUC** (98.30% Accuracy) with DINOv2 and **0.9932 ROC-AUC** (96.64% Accuracy) with MobileNetV4.
+- Proven that MobileNetV4 (64 MB) maintains competitive quality, making it ideal for edge inference.
+- Built a custom dataset (43.7k+ videos) combining 7 benchmarks and custom AuthorDeepFake-6600 dataset generated via InSwapper & SDXL.
+- Deployed on NVIDIA RTX 3090 for training and optimization.
 
 ## 🎓 Academic Research
 
 **[adversarial_pipeline](https://github.com/krassiaa/adversarial_pipeline)** — Master's thesis on real-time adversarial attacks against face recognition.
 
-- Adapted NI-FGSM for video streams (33.6 FPS on Apple M1 Pro)
-- Achieved 99.75% ASR with imperceptible perturbations (PSNR > 36 dB)
+- Adapted NI-FGSM and MI-FGSM optimization for live video streams (33.6 FPS on Apple M1 Pro via MediaPipe).
+- Achieved **99.75% Attack Success Rate (ASR)** against SOTA face recognition models with imperceptible perturbations (PSNR > 36 dB).
 
 
 
